@@ -1,0 +1,39 @@
+﻿INTRODUCTION
+
+
+Kasten is a Kubernetes data storage program.Kasten helps in the storage of large data.The latest version of kasten is Kasten K10.Kasten is a sub organization of Veem that only deals with data backu[
+
+
+
+
+PROJECT SUMMARY
+
+
+
+
+Website
+	https://www.kasten.io/
+	Organization/ Foundation Name 
+	Kasten Inc
+	License 
+	The license model for Kasten.io's products is commercial and flexible
+	Open/Proprietary
+	Proprietary
+	
+
+
+
+
+
+
+
+Features : 
+Encryption
+Scalability 
+Flexibility 
+
+
+Similar projects:
+Luster
+K10
+MINI
