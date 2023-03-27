@@ -18,7 +18,7 @@ Website
 	License 
 	The license model for Kasten.io's products is commercial and flexible
 	Open/Proprietary
-	Proprietary
+	Propriet
 	
 
 
@@ -27,13 +27,3 @@ Website
 
 
 
-Features : 
-Encryption
-Scalability 
-Flexibility 
-
-
-Similar projects:
-Luster
-K10
-MINI
